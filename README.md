@@ -1,4 +1,4 @@
-# recipes-project
+# recipes-html-project
 
 Project for testing and practicing results of HTML Foundations course. Tested and applied HTML skils are:
   - Elements and Tags
